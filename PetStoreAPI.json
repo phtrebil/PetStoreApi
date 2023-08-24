@@ -1,0 +1,114 @@
+[
+  {
+    "image": "https://images.petz.com.br/fotos/1657904592097.jpg",
+    "name": "Cama Conforto Pet",
+    "description": "Cama aconchegante para seu pet descansar confortavelmente.",
+    "price": 49.99,
+    "type": "CAMAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1632948750925.jpg",
+    "name": "Cama Deluxe",
+    "description": "Cama de luxo com almofadas extras para seu pet relaxar.",
+    "price": 79.99,
+    "type": "CAMAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1625598552882.jpg",
+    "name": "Cama Ortopédica",
+    "description": "Cama ortopédica para pets com necessidades especiais.",
+    "price": 89.99,
+    "type": "CAMAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1653597972141.jpg",
+    "name": "Cama Pequenina",
+    "description": "Cama pequena e fofa para filhotes e pets de pequeno porte.",
+    "price": 29.99,
+    "type": "CAMAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1613049893437.jpg",
+    "name": "Brinquedo de Corda",
+    "description": "Divertido brinquedo de corda para entreter seu pet.",
+    "price": 9.99,
+    "type": "BRINQUEDOS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1618866380562.jpg",
+    "name": "Brinquedo Interativo",
+    "description": "Brinquedo interativo para estimular o cérebro do seu pet.",
+    "price": 14.99,
+    "type": "BRINQUEDOS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1458590592588.jpg",
+    "name": "Pelúcia Cachorrinho",
+    "description": "Pelúcia em formato de cachorrinho para seu pet abraçar.",
+    "price": 8.99,
+    "type": "BRINQUEDOS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1634137020653.jpg",
+    "name": "Bola de Borracha",
+    "description": "Bola resistente de borracha para brincadeiras ao ar livre.",
+    "price": 12.99,
+    "type": "BRINQUEDOS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1636639179826.jpg",
+    "name": "Comedouro Automático",
+    "description": "Comedouro automático para manter seu pet sempre alimentado.",
+    "price": 19.99,
+    "type": "COMEDOUROS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1661525055040.jpg",
+    "name": "Comedouro Elevado",
+    "description": "Comedouro elevado para melhorar a postura do seu pet enquanto se alimenta.",
+    "price": 24.99,
+    "type": "COMEDOUROS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1666186798777.jpg",
+    "name": "Comedouro Lento",
+    "description": "Comedouro com obstáculos para evitar que seu pet coma rápido demais.",
+    "price": 16.99,
+    "type": "COMEDOUROS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1511975704269.jpg",
+    "name": "Comedouro Colorido",
+    "description": "Comedouro com design divertido para dar cor às refeições do seu pet.",
+    "price": 14.99,
+    "type": "COMEDOUROS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1638975954587.jpg",
+    "name": "Casinha Aconchegante",
+    "description": "Casinha confortável para seu pet se abrigar.",
+    "price": 69.99,
+    "type": "CASINHAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1639495662920.jpg",
+    "name": "Casinha Luxo",
+    "description": "Casinha de luxo com detalhes elegantes para seu pet se sentir especial.",
+    "price": 129.99,
+    "type": "CASINHAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1616615706741.jpg",
+    "name": "Casinha Portátil",
+    "description": "Casinha dobrável e portátil para levar em viagens.",
+    "price": 49.99,
+    "type": "CASINHAS"
+  },
+  {
+    "image": "https://images.petz.com.br/fotos/1636115563457.jpg",
+    "name": "Casinha Rústica",
+    "description": "Casinha com estilo rústico para combinar com a decoração da sua casa.",
+    "price": 89.99,
+    "type": "CASINHAS"
+  }
+]
